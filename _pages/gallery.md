@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_without_title
 title: 中国航天任务徽章图鉴
 permalink: /
 description: 璀璨星空，吾心所向
