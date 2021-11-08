@@ -233,8 +233,10 @@ blockquote {
 
 // Footer
 footer.fixed-bottom {
+  position: relative;
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  padding-top: 4rem;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
