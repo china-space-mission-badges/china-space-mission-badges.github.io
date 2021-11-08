@@ -9,8 +9,7 @@ last_name:
 email: pengzh@ie.cuhk.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   中国航天任务徽章图鉴
-footer_text: >
-  这里是脚注内容。
+footer_text: ''
 
 icon: 🚀 # the emoji used as the favicon
 url: https://china-space-mission-badges.github.io # the base hostname & protocol for your site
