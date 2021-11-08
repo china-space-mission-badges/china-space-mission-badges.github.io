@@ -1,7 +1,7 @@
 ---
-layout: page
-title: 中国航天任务徽章图鉴
-permalink: /projects/
+layout: page_without_title
+title: 中国航天任务徽章图鉴<br>China Space Mission Badge Gallery
+permalink: /
 description: 璀璨星空，吾心所向
 nav: true
 display_categories: [2021, 2020, ]
